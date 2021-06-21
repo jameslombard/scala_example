@@ -5,3 +5,4 @@ target/
 target/streams/
 target/.history/
 project/
+.vscode
